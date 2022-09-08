@@ -27,6 +27,10 @@ header nav a{
     text-decoration: none;
 }
 
+header nav ul li a:hover{
+    text-decoration: underline;
+}
+
 nav{
     overflow: auto;
     background-color: #d2dfe1;
